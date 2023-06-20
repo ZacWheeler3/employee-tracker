@@ -10,6 +10,7 @@ Because this application won’t be deployed, you’ll also need to create a wal
 
 ## User Story
 
+Github Repo: https://github.com/ZacWheeler3/employee-tracker
 ```md
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
